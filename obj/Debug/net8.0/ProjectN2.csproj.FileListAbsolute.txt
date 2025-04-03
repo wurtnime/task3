@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Desktop\ProjectN2-master\bin\Debug\net8.0\ProjectN2.exe
+C:\Users\Пользователь\Desktop\ProjectN2-master\bin\Debug\net8.0\ProjectN2.deps.json
+C:\Users\Пользователь\Desktop\ProjectN2-master\bin\Debug\net8.0\ProjectN2.runtimeconfig.json
+C:\Users\Пользователь\Desktop\ProjectN2-master\bin\Debug\net8.0\ProjectN2.dll
+C:\Users\Пользователь\Desktop\ProjectN2-master\bin\Debug\net8.0\ProjectN2.pdb
+C:\Users\Пользователь\Desktop\ProjectN2-master\obj\Debug\net8.0\ProjectN2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\ProjectN2-master\obj\Debug\net8.0\ProjectN2.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\ProjectN2-master\obj\Debug\net8.0\ProjectN2.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\ProjectN2-master\obj\Debug\net8.0\ProjectN2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ProjectN2-master\obj\Debug\net8.0\ProjectN2.dll
+C:\Users\Пользователь\Desktop\ProjectN2-master\obj\Debug\net8.0\refint\ProjectN2.dll
+C:\Users\Пользователь\Desktop\ProjectN2-master\obj\Debug\net8.0\ProjectN2.pdb
+C:\Users\Пользователь\Desktop\ProjectN2-master\obj\Debug\net8.0\ProjectN2.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\ProjectN2-master\obj\Debug\net8.0\ref\ProjectN2.dll

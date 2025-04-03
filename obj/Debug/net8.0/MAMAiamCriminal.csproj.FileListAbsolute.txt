@@ -1,0 +1,14 @@
+D:\ОП\Практика №3\klin\bin\Debug\net8.0\MAMAiamCriminal.exe
+D:\ОП\Практика №3\klin\bin\Debug\net8.0\MAMAiamCriminal.deps.json
+D:\ОП\Практика №3\klin\bin\Debug\net8.0\MAMAiamCriminal.runtimeconfig.json
+D:\ОП\Практика №3\klin\bin\Debug\net8.0\MAMAiamCriminal.dll
+D:\ОП\Практика №3\klin\bin\Debug\net8.0\MAMAiamCriminal.pdb
+D:\ОП\Практика №3\klin\obj\Debug\net8.0\MAMAiamCriminal.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОП\Практика №3\klin\obj\Debug\net8.0\MAMAiamCriminal.AssemblyInfoInputs.cache
+D:\ОП\Практика №3\klin\obj\Debug\net8.0\MAMAiamCriminal.AssemblyInfo.cs
+D:\ОП\Практика №3\klin\obj\Debug\net8.0\MAMAiamCriminal.csproj.CoreCompileInputs.cache
+D:\ОП\Практика №3\klin\obj\Debug\net8.0\MAMAiamCriminal.dll
+D:\ОП\Практика №3\klin\obj\Debug\net8.0\refint\MAMAiamCriminal.dll
+D:\ОП\Практика №3\klin\obj\Debug\net8.0\MAMAiamCriminal.pdb
+D:\ОП\Практика №3\klin\obj\Debug\net8.0\MAMAiamCriminal.genruntimeconfig.cache
+D:\ОП\Практика №3\klin\obj\Debug\net8.0\ref\MAMAiamCriminal.dll
